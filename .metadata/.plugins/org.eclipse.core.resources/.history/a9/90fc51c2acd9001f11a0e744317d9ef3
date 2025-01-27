@@ -1,0 +1,16 @@
+package modelo.entidad;
+
+import javax.persistence.Entity;
+
+import lombok.Data;
+
+@Data
+@Entity
+public class Coche {
+	private int id;
+	private String marca;
+	private String modelo,
+	private long 
+	
+	
+}

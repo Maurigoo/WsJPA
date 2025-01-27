@@ -1,0 +1,12 @@
+package main;
+
+import javax.persistence.EntityManagerFactory;
+
+public class MainJPA {
+
+	public static void main(String[] args) {
+		EntityManagerFactory
+
+	}
+
+}

@@ -1,0 +1,13 @@
+package main;
+
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+
+public class MainJPA {
+
+	public static void main(String[] args) {
+		EntityManagerFactory emf = Persistence.createEntityManagerFactory("")
+
+	}
+
+}

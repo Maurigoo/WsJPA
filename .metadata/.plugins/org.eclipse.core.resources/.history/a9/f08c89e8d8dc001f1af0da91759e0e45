@@ -1,0 +1,17 @@
+package modelo.entidad;
+
+import javax.annotation.processing.Generated;
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+import lombok.Data;
+
+@Entity
+@Table(name = "personas")
+@Data
+public class Persona {
+	@Id
+	@Generated
+	private int id;
+}

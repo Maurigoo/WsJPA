@@ -1,0 +1,13 @@
+package modelo.entidad;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+import lombok.Data;
+
+@Entity
+@Table(name = "personas")
+@Data
+public class Persona {
+
+}

@@ -1,0 +1,9 @@
+package modelo.entidad;
+
+
+@Data
+public class Coche {
+
+	
+	
+}

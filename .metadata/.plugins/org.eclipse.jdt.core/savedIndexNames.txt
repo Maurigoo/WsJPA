@@ -1,0 +1,24 @@
+INDEX VERSION 1.134+C:\Users\JoseMauricioHerbasBe\Desktop\MauriJava\.metadata\.plugins\org.eclipse.jdt.core
+517139518.index
+2463645414.index
+420531438.index
+883570443.index
+932712247.index
+572849980.index
+378870554.index
+2654195042.index
+37025035.index
+2736274736.index
+1865797976.index
+1050825781.index
+3314875226.index
+3760741161.index
+2616063351.index
+2741164522.index
+1611961598.index
+1417043613.index
+972173852.index
+1296307063.index
+614164982.index
+4142355770.index
+3369326558.index
